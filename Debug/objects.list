@@ -1,0 +1,7 @@
+"./Src/I2C.o"
+"./Src/I2C_ADLX345.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/systick.o"
+"./Startup/startup_stm32f446retx.o"
